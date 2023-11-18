@@ -32,3 +32,5 @@ public class Main {
             System.out.println(a);
     }
 }
+
+//修改很好，main应该在测试后去掉
